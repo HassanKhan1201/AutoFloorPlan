@@ -1,0 +1,8 @@
+streamlit==1.12.2
+fastapi==0.78.0
+uvicorn==0.18.2
+requests==2.27.1
+python-dotenv==0.19.2
+Pillow==9.3.0
+matplotlib==3.5.1
+numpy==1.23.4
