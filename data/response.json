@@ -1,0 +1,3 @@
+{
+    "response": "{\n    \"house\": {\n        \"style\": \"luxurious modern\",\n        \"materials\": \"glass, wood\",\n        \"layout\": \"two-story\",\n        \"lighting\": \"natural sunlight, photorealistic\"\n    },\n    \"rooms\": {\n        \"bedrooms\": {\n        \"count\": 2,\n        \"description\": \"not specified\"\n        },\n        \"bathrooms\": {\n        \"count\": 2,\n        \"description\": \"not specified\"\n        }\n    },\n    \"garden\": {\n        \"description\": \"lush greenery, palm trees, small koi pond\"\n    },\n    \"swimming_pool\": {\n        \"description\": \"not present\"\n    },\n    \"overall_scene\": {\n        \"visibility\": \"everything visible\",\n        \"atmosphere\": \"warm, cinematic\"\n    }\n}"
+}
